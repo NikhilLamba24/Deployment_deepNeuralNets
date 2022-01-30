@@ -3,4 +3,5 @@ Steps:
 1. Create folder named 'static'
 2. Put files main.css and main.js 'static' folder
 3. Create folder named'templates'
-4. Put files 
+4. Put files 'base.html' and 'index.html' inside 'templates' folder
+5. Run 'python app.py'
